@@ -1,0 +1,5 @@
+Note: each test may take a while to run.
+Test 1/10:
+	Score/Best Tile: 12604/1024
+	NOT SUFFICIENT (score less than 20000)
+Test 2/10:
